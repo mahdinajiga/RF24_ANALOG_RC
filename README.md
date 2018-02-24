@@ -2,6 +2,6 @@
 nRF24L01 analog remote controller arduino
 
 
-Remote control for jangju
-  NRF24L01+
+Remote control for jangju using NRF24L01+ interfaces with arduino
+
  
